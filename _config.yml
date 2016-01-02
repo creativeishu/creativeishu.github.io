@@ -1,14 +1,14 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Irshads website
 locale:           en_US
-url:
+url:              http://creativeishu.github.io
 
 
 # Jekyll configuration
 
 permalink:   /:categories/:title/
-markdown:    kramdown
+markdown:    redcarpet
 highlighter: pygments
 sass:
   sass_dir: _sass
@@ -26,32 +26,32 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Irshad Mohammed
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  bio: "Research Associate at Fermilab"
+  email: creativeishu@gmail.com
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter: creativeishu
+  facebook: creativeishu
   google:
-    plus: #username
+    plus: creativeishu 
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: creativeishu
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: creativeishu
   xing: #username
-  instagram: #username
+  instagram: creativeishu
   lastfm: #username
-  tumblr: #username
+  tumblr: creativeishu
   pinterest: #username
   foursquare: #username
   steam: #username
   dribbble: #username
-  youtube: #username
+  youtube: creativeishu
   soundcloud: #username
   weibo: #username
   flickr: #username
