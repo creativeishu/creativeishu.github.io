@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Irshads website
+title:            Irshad's website
 locale:           en_US
 url:              http://creativeishu.github.io
 
@@ -44,14 +44,14 @@ owner:
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: creativeishu
   xing: #username
-  instagram: creativeishu
+  instagram: #creativeishu
   lastfm: #username
-  tumblr: creativeishu
+  tumblr: #creativeishu
   pinterest: #username
   foursquare: #username
   steam: #username
   dribbble: #username
-  youtube: creativeishu
+  youtube: #creativeishu
   soundcloud: #username
   weibo: #username
   flickr: #username
