@@ -1,0 +1,28 @@
+<html>
+<head>
+<script src = "summary.js" type = "text/javascript"></script>
+<script src = "jquery.js" type = "text/javascript"></script>
+<link href = "style.css" rel = "stylesheet" type = "text/css">
+<script src = "blockUI.js" type = "text/javascript"></script>
+<title>Doc Summary</title>
+<script>
+function onLoad(){
+$(document).ajaxStop($.unblockUI);
+add_ui_elements(document.getElementById("ui"));
+}
+</script>
+</head>
+<body onload = "onLoad()";>
+<center><font size = "8"><b>Saransh</b></font></center>
+<center><font size = "4"><b>Summarize Text Documents</b></font></center>
+<div id="result"></div>
+<div id = "ui" ></div>
+<div id = "about" class = "about"><b>About:</b> 
+"Saransh is a tool to summarize text documents developed by Janu Verma. This uses statistical Natural Language Processing techniques to extract most informative sentences from the textual document."</div>
+<div id = "contact" class = "contact"><b>Contact:</b><br>
+<a href = "https://twitter.com/januverma">@januverma</a><br>
+<a href = "http://randominferences.tumblr.com/">Blog</a><br>
+<a href = "mailto:j.verma5@gmail.com">j.verma5@gmail.com</a></div>
+<div id = "copyright" class = "copyright">Copyright: Saransh 2013</div>
+</body>
+</html>

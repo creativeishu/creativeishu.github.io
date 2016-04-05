@@ -107,7 +107,24 @@
       </div>
    
    
-
+<!--    
+      <div class="one-column columns testimony">
+      	<div class="clearfix says">
+        <figure class="marginRight"><img src="images/client_image_1.jpg" alt="Image" /></figure>
+        <blockquote>
+          <p>This is just a place holder for people who need type to visualize what the actual copy might look like if it were real content.This is just a place holder for people who need type to visualize what the actual copy might look like if it were real content.</p>
+          <cite>&mdash; <a href="#">Joefrey Mahusay</a></cite> </blockquote>
+        </div>
+        <div class="clearfix says">
+        <figure class="marginRight"><img src="images/client_image_1.jpg" alt="Image" /></figure>
+        <blockquote>
+          <p>This is just a place holder for people who need type to visualize what the actual copy might look like if it were real content.This is just a place holder for people who need type to visualize what the actual copy might look like if it were real content.</p>
+          <cite>&mdash; <a href="#">Joefrey Mahusay</a></cite> </blockquote>
+        </div>
+          
+      </div>
+      
+-->
 
     </section> <!--end section-->
     
